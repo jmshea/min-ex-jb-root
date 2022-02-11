@@ -1,0 +1,4 @@
+format: jb-article
+root: intro/intro
+sections:
+- file: subdir/example
